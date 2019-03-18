@@ -12,7 +12,7 @@ namespace C_Sharp_HelloWorld_ASP.NET_Core_Web_App.Pages
 
         public void OnGet()
         {
-            Message = "Your application description page.";
+            Message = "What is my message?";
         }
     }
 }
